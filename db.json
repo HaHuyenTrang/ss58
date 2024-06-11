@@ -1,0 +1,31 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "student_name": "Trang",
+      "email": "trang@gmail.com",
+      "address": "Sơn La",
+      "phone": 19001004,
+      "status": "xinh đẹp :>",
+      "created_at": "11/6/24"
+    },
+    {
+      "id": 2,
+      "student_name": "Châu",
+      "email": "chau@gmail.com",
+      "address": "Sơn La",
+      "phone": 10865641004,
+      "status": "đáng iu",
+      "created_at": "11/6/24"
+    },
+    {
+      "id": 10,
+      "student_name": "Hòa",
+      "email": "hoa@gmai.com",
+      "address": "Lạng Sơn",
+      "phone": 206477,
+      "status": "handsome",
+      "created_at": "11/6/24"
+    }
+  ]
+}
